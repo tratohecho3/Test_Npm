@@ -1,0 +1,17 @@
+{
+  "name": "my_own_module",
+  "version": "0.1.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tratohecho3/Test_Npm.git"
+  },
+  "author": "Cesar Colina <tratohecho3@gmail.com> (https://www.linkedin.com/in/cesar-colina/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tratohecho3/Test_Npm/issues"
+  }
+}
