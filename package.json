@@ -1,5 +1,5 @@
 {
-  "name": "my_own_module",
+  "name": "@ayacayu/mockscript",
   "version": "0.1.0",
   "description": "Testing",
   "main": "dist/src/mockscript.js",
